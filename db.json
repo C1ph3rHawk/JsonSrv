@@ -1,5 +1,4 @@
-{    
-    "Computers": [    
+  
         {
             "HostName":  "INHQLT100000",
             "ServiceTag":  "CFYC0N2",
@@ -78,5 +77,3 @@
             "CI Class":  "Laptop",
             "Location":  "inhq"
         }
-    ]
-}    
