@@ -1,7 +1,7 @@
 {    
     "Computers": [    
         {
-            "HostName":  "INHQLT100000",
+            "id":  "INHQLT100000",
             "ServiceTag":  "CFYC0N2",
             "CPU":  "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
             "Number of CPUs":  4,
@@ -21,7 +21,7 @@
             "Location":  "inhq"
         },
         {
-            "HostName":  "INDEPLOYSRV1",
+            "id":  "INDEPLOYSRV1",
             "ServiceTag":  "",
             "CPU":  "Intel(R) Xeon(R) CPU E5-2698 v3 @ 2.30GHz",
             "Number of CPUs":  2,
@@ -41,7 +41,7 @@
             "Location":  "inhq"
         },
         {
-            "HostName":  "INHQLT100001",
+            "id":  "INHQLT100001",
             "ServiceTag":  "FPL0WF2",
             "CPU":  "Intel(R) Core(TM) i7-6820HQ CPU @ 2.70GHz",
             "Number of CPUs":  4,
@@ -60,7 +60,7 @@
             "Location":  "inhq"
         },
         {
-            "HostName":  "INHQLT100002",
+            "id":  "INHQLT100002",
             "ServiceTag":  "DVZX0G2",
             "CPU":  "Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz",
             "Number of CPUs":  4,
